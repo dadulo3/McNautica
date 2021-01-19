@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "mcnautica:blocks/custom_door_btm",
+    "top": "mcnautica:blocks/custom_door_top"
+  }
+}
